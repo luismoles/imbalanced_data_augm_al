@@ -1,6 +1,8 @@
 ## Exploring Data Augmentation and Active Learning Benefits in Imbalanced Datasets
 
-This is the implementation of [Signal Processing, Machine Learning, and Scientific Computing: Algorithms and Applications](https://www.mdpi.com/journal/mathematics/special_issues/9205L3Q93P) 2024 paper:<br>*Exploring Data Augmentation and Active Learning Benefits in Imbalanced Datasets*, which can be found in [Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/9205L3Q93P).
+This is the implementation of [Signal Processing, Machine Learning, and Scientific Computing: Algorithms and Applications](https://www.mdpi.com/journal/mathematics/special_issues/9205L3Q93P) 2024 paper:
+
+<br>*Exploring Data Augmentation and Active Learning Benefits in Imbalanced Datasets*, which can be found in [Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/9205L3Q93P).
 
 This work was developed to analyze the effect of different Data Augmentation and Active Learning techniques on Imbalanced Datasets.
 
